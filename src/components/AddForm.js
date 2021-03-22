@@ -1,5 +1,5 @@
 import React, { useRef } from 'react'
-import { connect, useDispatch } from 'react-redux'
+import { useDispatch } from 'react-redux'
 
 const AddForm = () => {
   const refContainer = useRef(null)
